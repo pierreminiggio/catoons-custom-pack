@@ -1,0 +1,31 @@
+Et Salut à tous ! Je me présente, Catoon, créateur de ce pack de Texture.
+Vous voici dans le dossier de mon Texture Pack.
+Mon Texture Pack est inspiré de Norse Craft et de Painterly Pack avec une petite touche de John Smith.
+Le pack est premièrement inspiré du Custom Painterly de Zisteau, un Youtubeur américain très connu dans le mileu anglophone et un peu moins chez les francophones. Je vous conseille d'aller le voir il fait des supers LP sur minecraft !!!!
+
+Mais, contrairement au Painterly pack et au Norse Craft, mon Pack est en 32x. Ce qui veut dire que j'ai détaillé beaucoup de Textures à la main. Sinon, depuis la 1.3.2, pour les nouveaux blocks / items, je ne prends plus les Textures que Painterly ou Norse Craft utilisent dans leur packs pour m'en inspirer, je pars directement de rien ou bien de la Texture du default ou bien faithful pour que ça soit mon propre Texture Pack (à moi!! :-D).
+
+Les mobs sont pour le moment ceux du custom painterly de Zisteau (sauf les PNJs qui proviennent de Faithful), à part le zombie villageois que j'ai fait moi même (et c'est le plus moche ! xD).
+
+Je fais des améliorations ponctuelles de mon Textures Pack même si la version de minecraft n'a pas changé entre temps si jamais je veux changer la Texture d'un bloc / item déjà existant.
+
+Lien du topic Minecraft.fr concernant mon Texture Pack :
+http://minecraft.fr/forum/index.php?threads/63710/
+
+Pour ceux qui auraient eu mon Texture pack par l'intermédiaire d'un de ses amis et qui ne me connaissent pas, je laisse mon skype, mon mail ainsi que ma chaîne youtube ici si vous avez besoin de me contacter
+ou si vous voulez regarder mes vidéos :
+
+Skype : pierremorph
+
+Mail : pierreguitare@live.fr
+
+Youtube : https://www.youtube.com/user/CatoonTheCat
+
+Sur ce, bon jeu, ou bonne texturation texturative si vous êtes un
+texturepackeux texturateur texturatif !
+- Catoon
+
+Comment installer un pack de texture ?
+- Ouvrez le dossier texture packs de votre dossier .minecraft (%appdata% dans ''rechercher'')
+- Mettez le zip du texture pack que vous venez de télécharger dans ce dossier.
+Enjoy !
